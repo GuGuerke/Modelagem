@@ -50,7 +50,7 @@ Após a reorganização:
 - Baixa clareza lógica  
 - Manutenção custosa  
 
-![Antes da Modelagem](https://raw.githubusercontent.com/GuGuerke/Modelagem-Power-BI/main/antes.png)
+![Antes da Modelagem](https://raw.githubusercontent.com/GuGuerke/Modelagem/main/Modelagem%20antes.jpg)
 
 ---
 
@@ -60,7 +60,7 @@ Após a reorganização:
 - Separação correta entre fatos e dimensões  
 - Facilidade para manutenção e evolução  
 
-![Depois da Modelagem](https://raw.githubusercontent.com/GuGuerke/Modelagem-Power-BI/main/depois.png)
+![Depois da Modelagem](https://raw.githubusercontent.com/GuGuerke/Modelagem/main/Modelagem%20depois.jpg)
 
 ---
 
@@ -84,4 +84,4 @@ Após a reorganização:
 
 ---
 
-📌 *Este repositório tem como objetivo demonstrar a forma de pensar, organizar e estruturar modelos analíticos no Power BI, refletindo práticas aplicadas no dia a dia profissional.*
+📌 *Este repositório demonstra práticas reais de organização, clareza e estruturação de modelos analíticos aplicadas no dia a dia profissional.*
